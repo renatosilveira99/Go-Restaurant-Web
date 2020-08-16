@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="src\assets\GoRestaurant.png" width="350" title="GoRestaurant">
+  <img src="src\assets\GoRestaurant.png" width="700" title="GoRestaurant">
 </p>
